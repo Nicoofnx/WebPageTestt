@@ -114,6 +114,7 @@ a:hover {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    transition: transform 100ms;
 }
 
 .boton:hover {
